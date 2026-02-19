@@ -1,0 +1,60 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Nauczyć się RTK Query",
+      "completed": true,
+      "assignee": {
+        "id": 101,
+        "name": "Jan Kowalski",
+        "email": "jan@example.com"
+      },
+      "project": {
+        "id": 201,
+        "name": "Warsztaty Frontend"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Zrobić prezentację",
+      "completed": true,
+      "assignee": {
+        "id": 101,
+        "name": "Jan Kowalski",
+        "email": "jan@example.com"
+      },
+      "project": {
+        "id": 201,
+        "name": "Warsztaty Frontend"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Przygotować warsztaty",
+      "completed": true,
+      "assignee": {
+        "id": 102,
+        "name": "Anna Nowak",
+        "email": "anna@example.com"
+      },
+      "project": {
+        "id": 201,
+        "name": "Warsztaty Frontend"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Code review",
+      "completed": false,
+      "assignee": {
+        "id": 102,
+        "name": "Anna Nowak",
+        "email": "anna@example.com"
+      },
+      "project": {
+        "id": 202,
+        "name": "Projekt X"
+      }
+    }
+  ]
+}
